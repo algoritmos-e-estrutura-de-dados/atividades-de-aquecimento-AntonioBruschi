@@ -1,2 +1,4 @@
-print("testando")
-print("teste")
+a = input()
+b = input()
+
+print(a + b)
